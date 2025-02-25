@@ -2,4 +2,5 @@
 
 This project is dedicated to Wendela Krans.
 
-In order to show created art through crocheting and knitting.
+This site will be written in JS with HTMX in order to showcase crocheting and knitting.
+(cloudlflare?)
